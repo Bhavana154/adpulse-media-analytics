@@ -83,7 +83,7 @@ fact_pl     (standalone monthly P&L)
 ## Links
 
 - **GitHub:** https://github.com/Bhavana154/adpulse-media-analytics
-- **Live Demo:** https://share.streamlit.io/Bhavana154/adpulse-media-analytics/main/app.py *(deploy steps below)*
+- **Live Demo:** https://adpulse-media-analytics-pxu9m2doq4vhcr6hg44hte.streamlit.app
 
 ## Deploy Live on Streamlit Cloud (Free — 5 clicks)
 
