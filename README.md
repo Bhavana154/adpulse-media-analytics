@@ -80,5 +80,21 @@ fact_pl     (standalone monthly P&L)
 
 ---
 
+## Links
+
+- GitHub: https://github.com/Bhavana154/adpulse-media-analytics
+- Live Demo: *(deploy to Streamlit Cloud — instructions below)*
+
+## Deploy Live (Free)
+
+1. Go to **share.streamlit.io**
+2. Sign in with GitHub (`Bhavana154`)
+3. Click **"New app"**
+4. Repo: `Bhavana154/adpulse-media-analytics`
+5. Branch: `main` | Main file: `app.py`
+6. Click **Deploy** → live URL in ~3 min
+
+---
+
 Built by: Bhavana Badhepalli
-Contact: admin@bhavanaanalytics.onmicrosoft.com
+GitHub: https://github.com/Bhavana154
