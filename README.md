@@ -82,17 +82,27 @@ fact_pl     (standalone monthly P&L)
 
 ## Links
 
-- GitHub: https://github.com/Bhavana154/adpulse-media-analytics
-- Live Demo: *(deploy to Streamlit Cloud — instructions below)*
+- **GitHub:** https://github.com/Bhavana154/adpulse-media-analytics
+- **Live Demo:** https://share.streamlit.io/Bhavana154/adpulse-media-analytics/main/app.py *(deploy steps below)*
 
-## Deploy Live (Free)
+## Deploy Live on Streamlit Cloud (Free — 5 clicks)
 
 1. Go to **share.streamlit.io**
-2. Sign in with GitHub (`Bhavana154`)
+2. Sign in with GitHub (`Bhavana154`) — one OAuth click
 3. Click **"New app"**
 4. Repo: `Bhavana154/adpulse-media-analytics`
 5. Branch: `main` | Main file: `app.py`
-6. Click **Deploy** → live URL in ~3 min
+6. Click **Deploy** → live permanent URL in ~3 min
+
+## Run Locally
+
+```bash
+git clone https://github.com/Bhavana154/adpulse-media-analytics.git
+cd adpulse-media-analytics
+pip install -r requirements.txt
+python generate_data.py     # creates Excel data
+streamlit run app.py        # opens http://localhost:8501
+```
 
 ---
 
